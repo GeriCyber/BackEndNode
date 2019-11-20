@@ -1,0 +1,17 @@
+{
+  "name": "backend-server",
+  "version": "1.0.0",
+  "description": "backend / NODE / Mongo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "global": "^4.4.0",
+    "jshint": "^2.10.3",
+    "mongoose": "4.13.5",
+    "nodemon": "^2.0.0"
+  }
+}
